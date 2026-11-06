@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SafeFileIngestion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe4c07627cd12d4d8d83e022300bd452888b9556")]
 [assembly: System.Reflection.AssemblyProductAttribute("SafeFileIngestion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SafeFileIngestion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
