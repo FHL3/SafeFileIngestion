@@ -1,0 +1,14 @@
+C:\Users\FHLEBAN\SafeFileIngestion\bin\Debug\net10.0\SafeFileIngestion.exe
+C:\Users\FHLEBAN\SafeFileIngestion\bin\Debug\net10.0\SafeFileIngestion.deps.json
+C:\Users\FHLEBAN\SafeFileIngestion\bin\Debug\net10.0\SafeFileIngestion.runtimeconfig.json
+C:\Users\FHLEBAN\SafeFileIngestion\bin\Debug\net10.0\SafeFileIngestion.dll
+C:\Users\FHLEBAN\SafeFileIngestion\bin\Debug\net10.0\SafeFileIngestion.pdb
+C:\Users\FHLEBAN\SafeFileIngestion\obj\Debug\net10.0\SafeFileIngestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FHLEBAN\SafeFileIngestion\obj\Debug\net10.0\SafeFileIngestion.AssemblyInfoInputs.cache
+C:\Users\FHLEBAN\SafeFileIngestion\obj\Debug\net10.0\SafeFileIngestion.AssemblyInfo.cs
+C:\Users\FHLEBAN\SafeFileIngestion\obj\Debug\net10.0\SafeFileIngestion.csproj.CoreCompileInputs.cache
+C:\Users\FHLEBAN\SafeFileIngestion\obj\Debug\net10.0\SafeFileIngestion.dll
+C:\Users\FHLEBAN\SafeFileIngestion\obj\Debug\net10.0\refint\SafeFileIngestion.dll
+C:\Users\FHLEBAN\SafeFileIngestion\obj\Debug\net10.0\SafeFileIngestion.pdb
+C:\Users\FHLEBAN\SafeFileIngestion\obj\Debug\net10.0\SafeFileIngestion.genruntimeconfig.cache
+C:\Users\FHLEBAN\SafeFileIngestion\obj\Debug\net10.0\ref\SafeFileIngestion.dll
