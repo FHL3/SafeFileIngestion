@@ -24,7 +24,7 @@ The application was developed with the following objectives:
 - Return structured ingestion results using C# records.
 
 
-## Technical Concepts Demonstrated
+## 3. Technical Concepts Demonstrated
 
 The application provides practical exposure to the following C# and .NET concepts:
 
