@@ -1,26 +1,3 @@
-// FileIngestionService.cs
-
-// 1. What should the class be called?
-// 2. What should its method be called?
-// 3. Should that method accept a file path?
-// 4. Should it return the contents of the file or simply display them?
-// Instead of returning the entire file, our service could:
-// - Read one line at a time.
-// - Process each line.
-// - Count the number of records processed.
-// - Return a summary of the ingestion.
-
-
-// Console.WriteLine("Please enter a file path: "); // - Asks the user for a file path.
-// string filePath = Console.ReadLine();
-// if () // - Checks whether the file exists.
-// {
-//     Console.WriteLine("The file exists."); // - Displays an appropriate message.
-// }
-// else
-// {
-//     Console.WriteLine("The file does not exist.");// - Displays an appropriate message.
-// }
 
 # Memory-Safe File Ingestion Application
 
